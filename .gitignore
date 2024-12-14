@@ -1,14 +1,8 @@
-# Terraform
-.terraform/
-*.tfstate
-*.tfstate.*
-*.tfvars
-# Terraform
+# Terraform files
 .terraform/
 *.tfstate
 *.tfstate.*
 *.tfvars
 *.lock.hcl
-.terraform/
-*.tfstate
-*.tfstate.*
+*.backup
+.terraform.lock.hcl
