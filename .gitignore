@@ -3,3 +3,12 @@
 *.tfstate
 *.tfstate.*
 *.tfvars
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.lock.hcl
+.terraform/
+*.tfstate
+*.tfstate.*
